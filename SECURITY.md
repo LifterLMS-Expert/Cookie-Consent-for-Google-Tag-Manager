@@ -13,7 +13,7 @@ We are committed to providing security updates for the following versions of Coo
 We take security vulnerabilities seriously. If you discover a security issue in Cookie Consent for Google Tag Manager, please follow these steps:
 
 1. **Do Not** disclose the vulnerability publicly
-2. Send details of the vulnerability to security@lifterlmsexpert.com
+2. Send details of the vulnerability to lifterlmsexpert@gmail.com
 3. Include the following in your report:
    - Description of the vulnerability
    - Steps to reproduce
