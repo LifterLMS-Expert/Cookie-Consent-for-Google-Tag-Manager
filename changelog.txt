@@ -1,0 +1,22 @@
+Changelog for Cookie Consent for Google Tag Manager
+=================================
+
+= 1.0.0 = (2025-08-20)
+Initial Release
+
+Features:
+* Customizable cookie consent banner for GTM and GA4
+* Google Tag Manager integration with consent-based loading
+* Comprehensive consent logging system
+* Admin dashboard with detailed statistics
+* Traffic source tracking capabilities
+* GDPR compliance tools and features
+
+Core Components:
+* Cookie consent management system
+* Google Tag Manager integration
+* User consent logging
+* Admin interface
+* Statistics dashboard
+* Export tools
+* Privacy features

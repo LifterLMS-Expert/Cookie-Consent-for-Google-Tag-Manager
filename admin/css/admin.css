@@ -1,0 +1,84 @@
+/* Admin Styles for Cookie Consent for Google Tag Manager */
+.consent-stats-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.consent-stat-box {
+    background: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.consent-stat-box .dashicons {
+    font-size: 30px;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.consent-stat-box h3 {
+    margin: 0 0 10px;
+    color: #23282d;
+    font-size: 14px;
+}
+
+.consent-stat-box .stat-number {
+    font-size: 24px;
+    font-weight: 600;
+    color: #0073aa;
+}
+
+.wp-list-table .column-consent_status {
+    width: 10%;
+}
+
+.wp-list-table .column-created_at {
+    width: 15%;
+}
+
+.consent-logs-table {
+    margin-top: 20px;
+}
+
+/* Settings Page Styles */
+.gtm-tabs {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    gap: 0;
+}
+
+.gtm-tab {
+    background: #f1f1f1;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-right: 2px;
+    border-radius: 4px 4px 0 0;
+    font-weight: 500;
+}
+
+.gtm-tab.active {
+    background: #fff;
+    border-bottom: 1px solid #fff;
+    margin-bottom: -1px;
+}
+
+.gtm-tab-content {
+    display: none;
+    padding: 20px 0 0 0;
+}
+
+.gtm-tab-content.active {
+    display: block;
+}
+
+.form-table th {
+    width: 220px;
+}

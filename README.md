@@ -32,7 +32,7 @@ This plugin is designed for:
 
 1. Upload the plugin to `/wp-content/plugins/cookie-consent-for-google-tag-manager` or install via the WordPress plugin installer  
 2. Activate the plugin through the **Plugins** menu in WordPress  
-3. Navigate to **GTM Consent** in your WordPress admin dashboard to configure settings  
+3. Navigate to **Cookie Consent for Google Tag Manager** in your WordPress admin dashboard to configure settings  
 
 ---
 
